@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rwishwajith
-- 👀 I’m interested in web API development and DevOps engineering
-- 💞️ I’m looking to collaborate on web API development 
+- 👀 I’m interested in Dev Ops
 - 📫 How to reach me Ruchira Wishwajith on Linkedin
 
 <!---
