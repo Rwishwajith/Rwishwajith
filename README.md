@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rwishwajith
+- 👋 Hi, I’m Ruchira Wishwajith
 - 👀 I’m interested in Dev Ops
 - 📫 Reach me Ruchira Wishwajith on Linkedin
 
